@@ -119,7 +119,7 @@ This repository primarily documents my personal learning journey. Suggestions, f
 ## 👩‍💻 Connect With Me
 
 - **GitHub:** https://github.com/2005siddhikulkarni
-- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/in/siddhi-kulkarni-8580372a7/?isSelfProfile=true).
+- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/in/siddhi-kulkarni-8580372a7/?isSelfProfile=true)
 
 ---
 
